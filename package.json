@@ -1,14 +1,13 @@
 {
-  "name": "portfolio-app",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://srinithi95.github.io/Portfolio" ,
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
-    "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
   "scripts": {
