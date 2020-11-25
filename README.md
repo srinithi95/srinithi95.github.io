@@ -4,8 +4,8 @@ I've created this with React JS and I have used Jackson template(https://colorli
 It is deployed with github Pages (Thanks to github :D)
 I did face some challenges while hosting it with github pages, So some things to keep in mind while hosting it in github pages,
 
-I am skipping all the initial steps of creating a react-App with create-React-App and other steps (Blog coming soon :),
-1)When you are ready to deploy to deploy your react app, make sure to change your package.json file with,
+I am skipping all the initial steps (Blog coming soon :),
+1)When you are ready to deploy your react app, make sure to change your package.json file with,
    -> Add the homepage field — value will be in the following format — https://{github_id}.github.io/{github_repo}
    -> Add predeploy and deploy fields under scripts
     
