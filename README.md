@@ -3,6 +3,7 @@ This is my portfolio!If you want to check out! https://srinithi95.github.io/
 I've created this with React JS and I have used Jackson template(https://colorlib.com/wp/template/jackson/) 
 It is deployed with github Pages (Thanks to github :D)
 I did face some challenges while hosting it with github pages, So some things to keep in mind while hosting it in github pages,
+
 1)When you are ready to deploy your react app, make sure to change your package.json file with,
    -> Add the homepage field — value will be in the following format — https://{github_id}.github.io/{github_repo}
    -> Add predeploy and deploy fields under scripts
